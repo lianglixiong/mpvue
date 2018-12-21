@@ -26,3 +26,5 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 ## 区别
 
 ![aaa](https://github.com/lianglixiong/image-github/blob/master/mpvue/1545382118.png)
+
+![aaa](https://github.com/lianglixiong/image-github/blob/master/mpvue/1545383138.png)
