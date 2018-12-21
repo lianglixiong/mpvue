@@ -17,7 +17,8 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 
-!(https://github.com/lianglixiong/image-github/blob/master/mpvue/1545382118.png)
+![](https://github.com/lianglixiong/image-github/blob/master/mpvue/1545382118.png)
+
 ```
 
 
