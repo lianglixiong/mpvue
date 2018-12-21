@@ -16,11 +16,12 @@ npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
-``` bash
 
-![](https://github.com/lianglixiong/image-github/blob/master/mpvue/1545382118.png)
 
 ```
 
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+```
+
+![aaa](https://github.com/lianglixiong/image-github/blob/master/mpvue/1545382118.png)
